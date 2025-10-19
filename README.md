@@ -45,5 +45,6 @@ simple-todo-app/
 ## 🧑‍💻 Author
 
 **Joshua Miller**  
-📧 Contact: [joshuamiller2030@gmail.com]  
-🌐 GitHub: [github.com/JoshuaM02]
+📧 Contact: [joshuamiller2030@gmail.com](mailto:joshuamiller2030@gmail.com)  
+🌐 GitHub: [github.com/JoshuaM02](https://github.com/JoshuaM02)  
+💬 WhatsApp: [Available on request](mailto:joshuamiller2030@gmail.com)
